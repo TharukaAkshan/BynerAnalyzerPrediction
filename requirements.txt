@@ -1,0 +1,7 @@
+selenium
+pandas
+pymongo
+matplotlib
+tensorflow
+keras
+scikit-learn
